@@ -1,0 +1,242 @@
+[
+    {
+      "nombre": "Homero Simpson",
+      "edad": 39,
+      "ocupacion": "Inspector de seguridad en la planta nuclear",
+      "familia": "Marge, Bart, Lisa, Maggie",
+      "descripcion": "El padre de la familia Simpson, conocido por su amor a la cerveza y su pereza.",
+      "imagen": "https://upload.wikimedia.org/wikipedia/en/0/02/Homer_Simpson_2006.png"
+    },
+    {
+      "nombre": "Marge Simpson",
+      "edad": 36,
+      "ocupacion": "Ama de casa",
+      "familia": "Homer, Bart, Lisa, Maggie",
+      "descripcion": "La matriarca de la familia Simpson, conocida por su peinado azul y su carácter paciente.",
+      "imagen": "https://upload.wikimedia.org/wikipedia/en/0/0b/Marge_Simpson.png"
+    },
+    {
+      "nombre": "Bart Simpson",
+      "edad": 10,
+      "ocupacion": "Estudiante",
+      "familia": "Homer, Marge, Lisa, Maggie",
+      "descripcion": "El hijo mayor de los Simpson, travieso y rebelde.",
+      "imagen": "https://upload.wikimedia.org/wikipedia/en/a/aa/Bart_Simpson_200px.png"
+    },
+    {
+      "nombre": "Lisa Simpson",
+      "edad": 8,
+      "ocupacion": "Estudiante",
+      "familia": "Homer, Marge, Bart, Maggie",
+      "descripcion": "La hija inteligente y sensible de los Simpson, apasionada por la música y el medio ambiente.",
+      "imagen": "https://upload.wikimedia.org/wikipedia/en/e/ec/Lisa_Simpson.png"
+    },
+    {
+      "nombre": "Maggie Simpson",
+      "edad": 1,
+      "ocupacion": "Bebé",
+      "familia": "Homer, Marge, Bart, Lisa",
+      "descripcion": "La bebé de la familia, conocida por su chupete.",
+      "imagen": "https://upload.wikimedia.org/wikipedia/en/9/9d/Maggie_Simpson.png"
+    },
+    {
+      "nombre": "Apu Nahasapeemapetilon",
+      "edad": 45,
+      "ocupacion": "Propietario del Kwik-E-Mart",
+      "familia": "Nahasapeemapetilon",
+      "descripcion": "Dueño del Kwik-E-Mart y amigo de la familia Simpson.",
+      "imagen": "https://i.pinimg.com/originals/cf/ed/a8/cfeda81ff6878ee462a5c5b6c2cbebb2.jpg"
+    },
+    {
+      "nombre": "Barney Gumble",
+      "edad": 40,
+      "ocupacion": "Desempleado",
+      "familia": "Gumble",
+      "descripcion": "El mejor amigo de Homero y conocido por su amor por la cerveza.",
+      "imagen": "https://upload.wikimedia.org/wikipedia/en/d/de/Barney_Gumble.png"
+    },
+    {
+      "nombre": "Carl Carlson",
+      "edad": 39,
+      "ocupacion": "Técnico en la Planta Nuclear",
+      "familia": "Carlson",
+      "descripcion": "Colega de Homero en la planta nuclear, conocido por su lealtad y sabiduría.",
+      "imagen": "https://i.pinimg.com/564x/01/2f/44/012f44ff05916aec705d1431b87ffbf4.jpg"
+    },
+    {
+      "nombre": "Lenny Leonard",
+      "edad": 39,
+      "ocupacion": "Técnico en la Planta Nuclear",
+      "familia": "Leonard",
+      "descripcion": "Amigo cercano de Homero y compañero de trabajo en la planta nuclear.",
+      "imagen": "https://www.giantbomb.com/a/uploads/scale_small/0/5370/1449778-lenny.jpg"
+    },
+    {
+      "nombre": "Moe Szyslak",
+      "edad": 48,
+      "ocupacion": "Propietario del Bar de Moe",
+      "familia": "Szyslak",
+      "descripcion": "Propietario del bar de Moe, donde Homero y sus amigos suelen reunirse.",
+      "imagen": "https://www.giantbomb.com/a/uploads/scale_small/1/14761/650018-moe_szyslak.jpg"
+    },
+    {
+      "nombre": "Jefe Gordori",
+      "edad": 43,
+      "ocupacion": "Jefe de Policía",
+      "familia": "Wiggum",
+      "descripcion": "El jefe de policía de Springfield, conocido por su incompetencia.",
+      "imagen": "https://i.pinimg.com/736x/20/4f/00/204f0014d0627cc76b67ae51e03f4047.jpg"
+    },
+    {
+      "nombre": "Ralph",
+      "edad": 8,
+      "ocupacion": "Estudiante",
+      "familia": "Wiggum",
+      "descripcion": "El hijo del Jefe Wiggum, famoso por sus inocentes y cómicos comentarios.",
+      "imagen": "https://www.giantbomb.com/a/uploads/scale_small/0/5201/229734-ralphnose.jpg"
+    },
+    {
+      "nombre": "Nelson Muntz",
+      "edad": 12,
+      "ocupacion": "Estudiante",
+      "familia": "Muntz",
+      "descripcion": "El matón de la escuela primaria de Springfield, famoso por su risa 'Ha-ha!'",
+      "imagen": "https://www.giantbomb.com/a/uploads/scale_small/16/164924/2494196-nelson.jpg"
+    },
+    {
+      "nombre": "Milhouse Van Houten",
+      "edad": 10,
+      "ocupacion": "Estudiante",
+      "familia": "Van Houten",
+      "descripcion": "El mejor amigo de Bart, conocido por ser tímido y leal.",
+      "imagen": "https://www.giantbomb.com/a/uploads/scale_small/1/14761/892716-milhouse.png"
+    },
+    {
+      "nombre": "Krusty el Payaso",
+      "edad": 52,
+      "ocupacion": "Payaso y estrella de televisión",
+      "familia": "Krustofsky",
+      "descripcion": "El famoso payaso de Springfield y estrella de televisión.",
+      "imagen": "https://upload.wikimedia.org/wikipedia/en/5/5a/Krustytheclown.png"
+    },
+    {
+      "nombre": "Mr. Burns",
+      "edad": 104,
+      "ocupacion": "Propietario de la Planta Nuclear",
+      "familia": "Burns",
+      "descripcion": "El despiadado y avaro propietario de la planta nuclear de Springfield.",
+      "imagen": "https://www.giantbomb.com/a/uploads/scale_small/0/4024/570741-mrburns.gif"
+    },
+    {
+      "nombre": "Smithers",
+      "edad": 45,
+      "ocupacion": "Asistente de Mr. Burns",
+      "familia": "Smithers",
+      "descripcion": "El fiel asistente de Mr. Burns, conocido por su lealtad y discreción.",
+      "imagen": "https://www.giantbomb.com/a/uploads/scale_small/0/4024/570542-waylon.gif"
+    },
+    {
+      "nombre": "Principal Skinner",
+      "edad": 50,
+      "ocupacion": "Director Escolar",
+      "familia": "Skinner",
+      "descripcion": "El estricto director de la Escuela Primaria de Springfield.",
+      "imagen": "https://www.giantbomb.com/a/uploads/scale_small/1/14761/927324-seymour_skinner.jpg"
+    },
+    {
+      "nombre": "Edna Krabappel",
+      "edad": 39,
+      "ocupacion": "Maestra de Bart Simpson",
+      "familia": "Krabappel",
+      "descripcion": "La maestra de Bart en la Escuela Primaria de Springfield, conocida por su sarcasmo.",
+      "imagen": "https://estaticosgn-cdn.deia.eus/clip/bfbff920-b47a-4f36-9c69-48cda912b596_9-16-aspect-ratio_default_0.jpg"
+    },
+    {
+      "nombre": "Willie",
+      "edad": 44,
+      "ocupacion": "Conserje",
+      "familia": "Willie",
+      "descripcion": "El celador escocés de la Escuela Primaria de Springfield.",
+      "imagen": "https://i.pinimg.com/originals/0b/0d/78/0b0d78cc5e01e04ef5243a0455f2b961.png"
+    },
+    {
+      "nombre": "Bob Patiño",
+      "edad": 45,
+      "ocupacion": "Criminal y enemigo de Bart",
+      "familia": "Terwilliger",
+      "descripcion": "El archienemigo de Bart Simpson, conocido por su inteligencia y odio hacia Bart.",
+      "imagen": "https://www.giantbomb.com/a/uploads/scale_small/16/164924/3212380-9694453732-latest"
+    },
+    {
+      "nombre": "Maggie Roswell",
+      "edad": 69,
+      "ocupacion": "Actriz de voz",
+      "familia": "Roswell",
+      "descripcion": "Actriz de voz conocida por interpretar a Helen Lovejoy, Maude Flanders y otros personajes en la serie de televisión Los Simpson.",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Maggie_Roswell-2.png"
+    },
+    {
+      "nombre": "Troy McClure",
+      "edad": 43,
+      "ocupacion": "Actor",
+      "familia": "McClure",
+      "descripcion": "Actor de voz de la serie animada The Simpsons, conocido por interpretar a Troy McClure, Lionel Hutz, entre otros.",
+      "imagen": "https://upload.wikimedia.org/wikipedia/en/f/f0/Troy_McClure.png"
+    },
+    {
+      "nombre": "Bumblebee Man",
+      "edad": 38,
+      "ocupacion": "Personaje de televisión",
+      "familia": "Bumblebee",
+      "descripcion": "Personaje de televisión y estrella de un programa en español en la serie de animación Los Simpson.",
+      "imagen": "https://upload.wikimedia.org/wikipedia/en/a/a8/Bumblebee_Man.png"
+    },
+    {
+      "nombre": "Dr. Hibbert",
+      "edad": 48,
+      "ocupacion": "Médico",
+      "familia": "Hibbert",
+      "descripcion": "El médico de Springfield, conocido por su risa característica.",
+      "imagen": "https://upload.wikimedia.org/wikipedia/en/0/0a/Dr._Julius_Hibbert.png"
+    },
+    {
+      "nombre": "Kent Brockman",
+      "edad": 51,
+      "ocupacion": "Presentador de noticias",
+      "familia": "Brockman",
+      "descripcion": "El presentador de noticias de Springfield, conocido por su sensacionalismo.",
+      "imagen": "https://upload.wikimedia.org/wikipedia/en/5/5c/Kent_Brockman.png"
+    },
+    {
+      "nombre": "Mayor Quimby",
+      "edad": 54,
+      "ocupacion": "Alcalde de Springfield",
+      "familia": "Quimby",
+      "descripcion": "El corrupto alcalde de Springfield, conocido por su comportamiento irresponsable.",
+      "imagen": "https://upload.wikimedia.org/wikipedia/en/9/9d/Mayor_Quimby.png"
+    },
+    {
+      "nombre": "Snake Jailbird",
+      "edad": 36,
+      "ocupacion": "Criminal",
+      "familia": "Jailbird",
+      "descripcion": "El delincuente habitual de Springfield, conocido por su pelo en forma de serpiente y su estilo de vida criminal.",
+      "imagen": "https://upload.wikimedia.org/wikipedia/en/8/89/Snake_Jailbird.png"
+    },
+    {
+      "nombre": "Comic Book Guy",
+      "edad": 45,
+      "ocupacion": "Propietario de la tienda de cómics",
+      "familia": "Guy",
+      "descripcion": "El propietario de la tienda de cómics de Springfield, conocido por su actitud sarcástica.",
+      "imagen": "https://upload.wikimedia.org/wikipedia/en/0/02/Comic_Book_Guy.png"
+    },
+    {
+      "nombre": "Ned Flanders",
+      "edad": 42,
+      "ocupacion": "Propietario de la tienda de cómics",
+      "familia": "Flanders",
+      "descripcion": "El vecino religioso de la familia Simpson, conocido por su optimismo y moralidad.",
+      "imagen": "https://upload.wikimedia.org/wikipedia/en/8/84/Ned_Flanders.png"
+    }
+]
